@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:102A2A,100:00D9A6&height=3&section=header" width="100%" />
 </p>
 
-## `whoami`
+## `who_am_i`
 
 I'm an Artificial Intelligence and Data Science student at **Vimal Jyothi Engineering College**, passionate about building intelligent systems and solving real-world problems through technology.
 
